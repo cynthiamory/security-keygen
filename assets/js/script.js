@@ -55,3 +55,5 @@
 
 // Add event listener to generate button. This is a Call To Action (CTA button)
     generateBtn.addEventListener("click", function () { writePassword(getPassword()) });
+
+    
